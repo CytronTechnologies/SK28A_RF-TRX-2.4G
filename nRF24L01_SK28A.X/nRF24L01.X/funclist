@@ -1,0 +1,23 @@
+_ucNrf24l01TransmitPacket: CODE, 1036 0 81
+_LCD_goto: CODE, 666 0 23
+_vInitSpi: CODE, 591 0 14
+_main: CODE, 1590 0 196
+_vReadNrf24l01: CODE, 868 0 45
+_LCD_4bitsend: CODE, 1426 0 164
+_ucReadNrf24l01FifoStatus: CODE, 623 0 20
+_ucTransferSpi: CODE, 643 0 23
+_vWriteNrf24l01: CODE, 913 0 51
+_LCD_command: CODE, 569 0 11
+_LCD_senddata: CODE, 580 0 11
+_keypad_read: CODE, 1265 0 161
+_keypad_wait: CODE, 794 0 36
+_ucNrf24l01ReceivePacket: CODE, 964 0 72
+_vNrf24l01EnableRx: CODE, 722 0 36
+_LCD_putstr: CODE, 689 0 33
+_vNrf24l01EnableTx: CODE, 758 0 36
+_LCD_putchar: CODE, 561 0 8
+_initialzie: CODE, 830 0 38
+_LCD_initialize: CODE, 1117 0 148
+_ucReadNrf24l01Status: CODE, 605 0 18
+_vInitNrf24l01: CODE, 1786 0 262
+Total: 1487
